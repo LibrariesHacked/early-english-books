@@ -1,0 +1,15 @@
+{
+  "name": "early-english-books",
+  "version": "1.0.0",
+  "description": "A Norch implementation for Early English Books",
+  "main": "./lib/norch",
+  "dependencies": {
+    "norch": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Libraries Hacked",
+  "license": "ISC"
+}
