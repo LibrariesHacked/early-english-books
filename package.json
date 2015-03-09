@@ -2,7 +2,7 @@
   "name": "early-english-books",
   "version": "1.0.0",
   "description": "A Norch implementation for Early English Books",
-  "main": "./lib/norch",
+  "main": "./node-modules/lib/norch",
   "dependencies": {
     "norch": "^0.4.17"
   },
